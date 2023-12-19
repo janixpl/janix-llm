@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=UU1WVnMk4E8
 - python3.10
 - torch-directml - I'm working on AMD Ryzen + Radeon
 
+## optional, but recommended
+- Visual Studio Code with plugins
+
 ## installation
 - check python3 --version
 - git clone https://github.com/janixpl/janix-llm.git
