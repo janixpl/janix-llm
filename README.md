@@ -22,3 +22,4 @@ https://www.youtube.com/watch?v=UU1WVnMk4E8
 - python3 -m venv .janix
 - source .janix/bin/activate
 - pip install torch-directml
+- code .
