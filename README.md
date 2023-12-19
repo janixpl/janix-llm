@@ -1,4 +1,9 @@
 # janix-llm
+## youtube
+Based on tutorial:
+https://www.youtube.com/watch?v=UU1WVnMk4E8
+(not mine)
+
 ## requirements
 
 - WSL2
