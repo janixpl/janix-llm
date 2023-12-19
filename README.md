@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=UU1WVnMk4E8
 
 - WSL2
 - python3.10
-- torch-directml
+- torch-directml - I'm working on AMD Ryzen + Radeon
 
 ## installation
 - check python3 --version
